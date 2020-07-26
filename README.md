@@ -2,7 +2,7 @@
 
 Click the image above to watch ths video.
 
-[![Watch the video](Screenshot_20200726-052539.jpg)](https://www.youtube.com/watch?v=Hl0RV0ViKUk)
+[![Watch the video](Screenshot_20200726-052539.jpg)](https://youtu.be/_DimmCnI0yc)
 
 ## Getting Started
 
