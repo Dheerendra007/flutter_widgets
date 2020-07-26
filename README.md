@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+<img src="WhatsApp Video 2020-07-26 at 05.29.15.mp4" class="inline"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
