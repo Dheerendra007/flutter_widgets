@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-<img src="WhatsApp Video 2020-07-26 at 05.29.15.mp4" class="inline"/>
+[![Watch the video](Screenshot_20200726-052508.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 ## Getting Started
 
